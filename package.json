@@ -1,7 +1,6 @@
 {
   "name": "reuse",
   "version": "0.1.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
@@ -50,5 +49,14 @@
     "react-dom": "^16.11.0",
     "react-hot-loader": "^4.12.15",
     "styled-components": "^4.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eytyy/reuse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eytyy/reuse/issues"
+  },
+  "homepage": "https://github.com/Eytyy/reuse#readme",
+  "description": ""
 }
